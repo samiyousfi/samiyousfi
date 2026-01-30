@@ -1,9 +1,6 @@
 ## # 👋 Bonjour, je suis Développeur d’Applications Multiplateformes
 
 ## 🛠️ Langages & Frameworks
-
-## 🛠️ Langages & Frameworks
-
 <p align="left">
   <!-- Langages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
