@@ -1,4 +1,10 @@
-## # 👋 Bonjour, je suis Développeur d’Applications Multiplateformes
+# 👋 Bonjour, je suis Développeur Full Stack
+
+💻 Développeur Full Stack spécialisé en **Java / Spring Boot / .NET / JavaScript**  
+📱 Création d’applications **web modernes, performantes et sécurisées**  
+🚀 Disponible pour des missions **freelance** et projets à long terme
+
+---
 
 ## 🛠️ Langages, Frameworks & Outils
 
@@ -26,19 +32,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
+---
+
+## 💼 À propos de moi
+
+Je conçois et développe des applications **robustes et évolutives**,  
+du **backend à la base de données**, jusqu’à l’interface utilisateur.
+
+🔹 APIs REST sécurisées  
+🔹 Applications Web dynamiques  
+🔹 Architecture propre & maintenable  
+🔹 Intégration base de données (MySQL)
+
+---
+
+## 🔧 Ce que je peux faire pour vous
+
+✅ Développement d’applications **Spring Boot / Hibernate / Thymeleaf**  
+✅ Développement **ASP.NET (C#)**  
+✅ Création d’APIs REST (Java / Node.js)  
+✅ Frontend moderne avec **React**  
+✅ Intégration base de données **MySQL**  
+✅ Maintenance & amélioration d’applications existantes  
 
 
-<!--
-**samiyousfi/samiyousfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Me contacter
+📧 Email : *(samiinformatique1@gmail.com)*  
+💼 LinkedIn : *(à ajouter)*  
+🌍 Disponible pour missions **freelance / remote**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐ N’hésitez pas à consulter mes projets et à me contacter !
