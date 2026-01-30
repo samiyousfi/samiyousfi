@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Développeur Full Stack
+# 👋 Bonjour,  je suis Développeur Full Stack
 
 💻 Développeur Full Stack spécialisé en **Java / Spring Boot / .NET / JavaScript**  
 📱 Création d’applications **web modernes, performantes et sécurisées**  
@@ -60,8 +60,8 @@ du **backend à la base de données**, jusqu’à l’interface utilisateur.
 
 ## 📫 Me contacter
 📧 Email : *(samiinformatique1@gmail.com)*  
-💼 LinkedIn : *(à ajouter)*  
-🌍 Disponible pour missions **freelance / remote**
+📸 Instagram : *(Samifullstack.code)*   
+🌍 Disponible pour missions **freelance / remote / création d'application /création de site web **
 
 ---
 ⭐ N’hésitez pas à consulter mes projets et à me contacter !
